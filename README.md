@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DzakySetya
 - 👀 I’m interested in "CODING"
-- 🌱 I’m currently learning "PYTHON"
+- 🌱 I’m currently learning "Unity"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
